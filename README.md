@@ -13,6 +13,8 @@ The objective of State_info Chatbot:
 It displays the state Information and also it performs datetime.now() and calculations of an expression.
 
 Block Diagram: 
+
+
 ![](BLOCK.PNG)
 
 
