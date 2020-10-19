@@ -2,7 +2,7 @@
 
 Team Mates:
 
-D.Surya Ratnakara Naidu (Register No: 19PA5A0307)
+Dasari Surya Ratnakara Naidu (Register No: 19PA5A0307)
 
 Dasari Anusha(Register No:18PA1A0539)
 
